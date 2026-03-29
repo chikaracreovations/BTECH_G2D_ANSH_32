@@ -33,7 +33,7 @@
 7. Salary Calculation - ☑️ 
 8. Rectangle & Square - ☑️  
 9. Arithmetic Operations -  
-10. Vowel or Consonant -  
+10. Vowel or Consonant - ☑️ 
 
 ---
 
@@ -84,9 +84,9 @@
 42. Prime number - ✅  
 43. Sum of digits - ✅ 
 44. Armstrong number - ✅  
-45. Strong number - ⬜ Pending  
-46. Perfect number - ⬜ Pending  
-47. Prime numbers 1–N - ⬜ Pending  
+45. Strong number - ☑️ 
+46. Perfect number - ☑️ 
+47. Prime numbers 1–N - ☑️  
 48. Fibonacci (recursion) - ⬜ Pending  
 49. Factorial (recursion) - ⬜ Pending  
 50. GCD & LCM - ⬜ Pending  
@@ -150,7 +150,7 @@
 ---
 
 ## 📈 Progress  
-✔ Completed: 50 / 90  
+✔ Completed: 54 / 90  
 ⬜ Pending: 90 / 90  
 
 ---
