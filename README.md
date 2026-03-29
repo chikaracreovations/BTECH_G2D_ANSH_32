@@ -28,12 +28,12 @@
 2. Simple & Compound Interest - ✅ 
 3. Area & Circumference of Circle - ✅ 
 4. Temperature Conversion - ✅ 
-5. Distance Conversion - ⬜ Pending  
-6. Days to Years/Months - ⬜ Pending  
-7. Salary Calculation - ⬜ Pending  
-8. Rectangle & Square - ⬜ Pending  
-9. Arithmetic Operations - ⬜ Pending  
-10. Vowel or Consonant - ⬜ Pending  
+5. Distance Conversion - ☑️ 
+6. Days to Years/Months - ☑️ 
+7. Salary Calculation - ☑️ 
+8. Rectangle & Square - ☑️  
+9. Arithmetic Operations -  
+10. Vowel or Consonant -  
 
 ---
 
@@ -42,12 +42,12 @@
 12. Check equal numbers - ✅  
 13. Greatest of three - ✅  
 14. Even or Odd - ✅ 
-15. Quadratic roots - ⬜ Pending  
-16. Alphabet/Digit/Symbol - ⬜ Pending  
-17. Positive/Negative/Zero - ⬜ Pending  
-18. Valid triangle & type - ⬜ Pending  
-19. Electricity bill - ⬜ Pending  
-20. Calculator (if-else) - ⬜ Pending  
+15. Quadratic roots - ☑️
+16. Alphabet/Digit/Symbol - ☑️ 
+17. Positive/Negative/Zero -  ☑️
+18. Valid triangle & type - ☑️ 
+19. Electricity bill - ☑️  
+20. Calculator (if-else) - ☑️
 
 ---
 
@@ -55,13 +55,13 @@
 21. Leap year - ✅ 
 22. Grade calculation - ✅  
 23. Calculator (switch) - ✅  
-24. Weekday from number - ⬜ Pending  
-25. Days in month - ⬜ Pending  
-26. Vowel/Consonant (switch) - ⬜ Pending  
-27. Voting eligibility - ⬜ Pending  
-28. Age category - ⬜ Pending  
-29. Area menu-driven - ⬜ Pending  
-30. Temperature menu-driven - ⬜ Pending  
+24. Weekday from number - ☑️ 
+25. Days in month - ☑️  
+26. Vowel/Consonant (switch) -  
+27. Voting eligibility - ☑️  
+28. Age category - ☑️ 
+29. Area menu-driven - ☑️ 
+30. Temperature menu-driven - ☑️
 
 ---
 
@@ -72,9 +72,9 @@
 34. Multiplication table - ⬜ Pending  
 35. First N natural numbers - ⬜ Pending  
 36. Reverse digits - ✅  
-37. Count digits - ⬜ Pending  
-38. Palindrome number - ⬜ Pending  
-39. Factors of number - ⬜ Pending  
+37. Count digits -☑️  
+38. Palindrome number - ☑️
+39. Factors of number - ☑️  
 40. Power (x^y) - ⬜ Pending  
 
 ---
@@ -150,7 +150,7 @@
 ---
 
 ## 📈 Progress  
-✔ Completed: 31 / 90  
+✔ Completed: 50 / 90  
 ⬜ Pending: 90 / 90  
 
 ---
