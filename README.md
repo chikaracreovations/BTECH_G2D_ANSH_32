@@ -71,7 +71,7 @@
 33. Sum of even & odd - ✅ 
 34. Multiplication table - ⬜ Pending  
 35. First N natural numbers - ⬜ Pending  
-36. Reverse digits - ⬜ Pending  
+36. Reverse digits - ✅  
 37. Count digits - ⬜ Pending  
 38. Palindrome number - ⬜ Pending  
 39. Factors of number - ⬜ Pending  
@@ -96,7 +96,7 @@
 ### 🔹 Lab 6: Patterns  
 51. Reverse using recursion - ⬜ Pending  
 52. Armstrong 1–100 - ⬜ Pending  
-53. Binary ↔ Decimal - ⬜ Pending  
+53. Binary ↔ Decimal - ✅  
 54. Pascal’s Triangle - ✅  
 55. Floyd’s Triangle - ⬜ Pending  
 56. Number pyramid - ⬜ Pending  
@@ -108,22 +108,22 @@
 ---
 
 ### 🔹 Lab 7: Arrays  
-61. Array sum - ⬜ Pending  
-62. Add two arrays - ⬜ Pending  
-63. Min & Max - ⬜ Pending  
-64. Linear search - ⬜ Pending  
-65. Insertion sort - ⬜ Pending  
-66. Selection sort - ⬜ Pending  
-67. Bubble sort - ⬜ Pending  
-68. Binary search - ⬜ Pending  
+61. Array sum - ✅  
+62. Add two arrays - ✅ 
+63. Min & Max - ✅ 
+64. Linear search - ✅  
+65. Insertion sort - ✅ 
+66. Selection sort - ✅  
+67. Bubble sort - ✅
+68. Binary search -  ✅ 
 69. Second largest/smallest - ⬜ Pending  
 70. Reverse array - ⬜ Pending  
 
 ---
 
 ### 🔹 Lab 8: Matrices  
-71. Matrix addition - ⬜ Pending  
-72. Matrix multiplication - ⬜ Pending  
+71. Matrix addition - ✅ 
+72. Matrix multiplication - ✅ 
 73. Diagonal sum - ⬜ Pending  
 74. Transpose - ⬜ Pending  
 75. Upper/lower triangle - ⬜ Pending  
@@ -150,7 +150,7 @@
 ---
 
 ## 📈 Progress  
-✔ Completed: 0 / 90  
+✔ Completed: 31 / 90  
 ⬜ Pending: 90 / 90  
 
 ---
