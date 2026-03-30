@@ -124,13 +124,13 @@
 ### 🔹 Lab 8: Matrices  
 71. Matrix addition - ✅ 
 72. Matrix multiplication - ✅ 
-73. Diagonal sum - ⬜ Pending  
+73. Diagonal sum -   ☑️ 
 74. Transpose - ⬜ Pending  
 75. Upper/lower triangle - ⬜ Pending  
 76. Symmetric matrix - ⬜ Pending  
 77. Sparse matrix - ⬜ Pending  
 78. Boundary elements - ⬜ Pending  
-79. Row & column sum - ⬜ Pending  
+79. Row & column sum - ☑️   
 80. Max in rows & columns - ⬜ Pending  
 
 ---
