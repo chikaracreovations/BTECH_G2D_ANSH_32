@@ -75,7 +75,7 @@
 45. Strong number - ☑️ 
 46. Perfect number - ☑️ 
 47. Prime numbers 1–N - ☑️  
-48. Fibonacci (recursion) - ⬜ Pending  
+48. Fibonacci (recursion) - ☑️ 
 49. Factorial (recursion) -  ☑️  
 50. GCD & LCM - ⬜ Pending  
 
@@ -138,7 +138,7 @@
 ---
 
 ## 📈 Progress  
-✔ Completed: 60 / 90  
+✔ Completed: 70 / 90  
 ⬜ Pending: 90 / 90  
 
 ---

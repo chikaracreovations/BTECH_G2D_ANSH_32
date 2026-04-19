@@ -1,10 +1,10 @@
 #include<stdio.h>
 int main(){
-int m1,m2,m3,m4,m5,sum;
+int eng,math,phy,cs,chem,sum;
 float per;
 printf("Enter marks of 5 subjects:\n");
-scanf("%d%d%d%d%d",&m1,&m2,&m3,&m4,&m5);
-sum=m1+m2+m3+m4+m5;
+scanf("%d%d%d%d%d",&eng,&math,&chem,&cs,&phy);
+sum=eng+math+chem+phy+cs;
 per=sum/5.0;
 if(per>=90) printf("Grade A\n");
 else if(per>=80) printf("Grade B\n");
