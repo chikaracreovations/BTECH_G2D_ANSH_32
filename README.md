@@ -6,18 +6,6 @@
 - Course: B.Tech CSE-AI 
 - Subject: Programming For Problem Solving in C  
 
----
-
-## 📂 Repository Structure  
-- Lab1 → Basics  
-- Lab2 → Conditions  
-- Lab3 → Switch & Decisions  
-- Lab4 → Loops  
-- Lab5 → Recursion & Series  
-- Lab6 → Patterns  
-- Lab7 → Arrays  
-- Lab8 → Matrices  
-- Lab9 → Strings, Files, Structures  
 
 ---
 
@@ -131,7 +119,7 @@
 77. Sparse matrix - ⬜ Pending  
 78. Boundary elements - ⬜ Pending  
 79. Row & column sum - ☑️   
-80. Max in rows & columns - ⬜ Pending  
+80. Max in rows & columns - ☑️ Pending  
 
 ---
 
